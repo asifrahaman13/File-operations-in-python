@@ -1,14 +1,16 @@
-This directory have several subdirectories.
+## About the repo
 
-The "given_input_files" directory contains all the input files given to us
+- This directory have several subdirectories.
 
-The "output_files" directory contains all the output files generated from the python files
+- The "given_input_files" directory contains all the input files given to us
 
-The "python_files" directory contains all the python files which contains the codes to perform the task.
+- The "output_files" directory contains all the output files generated from the python files
 
-Testing was used by me to check different codes.
+- The "python_files" directory contains all the python files which contains the codes to perform the task.
 
-The use case is simple. Run the python files to get the desired output. There are three different python files and hence you can run any of them. 
+- Testing was used by me to check different codes.
+
+- The use case is simple. Run the python files to get the desired output. There are three different python files and hence you can run any of them. 
 
 
 HOWEVER IF ONE IS TO BE CONSIDERED ONLY THEN PREFER THE "index_string.py" file.
